@@ -1,0 +1,1 @@
+cd [путь] scrapy genspider divannewpars divan.ru
